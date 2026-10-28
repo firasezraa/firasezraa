@@ -68,23 +68,26 @@ I design intuitive digital products with engineering precision — turning compl
 
 ## Tech Stack
 
-```txt
-Design:     Figma ████████████████████ 95%
-            Figma Tokens ██████████████████ 90%
-            Prototyping ████████████████████ 95%
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma Tokens](https://img.shields.io/badge/Figma%20Tokens-A855F7?style=for-the-badge&logo=figma&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Prototyping-00D4AA?style=for-the-badge&logo=framer&logoColor=white)
 
-Front-End:  Next.js ██████████████████ 85%
-            React ████████████████████ 85%
-            TypeScript █████████████████ 80%
-            Tailwind CSS ████████████████████ 90%
-            shadcn/ui █████████████████ 80%
+### Front‑End
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-Backend:    Supabase ████████████████ 75%
-            PostgreSQL ███████████████ 75%
+### Backend & Data
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Process:    Git/GitHub ████████████████████ 90%
-            Agile/Scrum █████████████████ 85%
-```
+### Process & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
