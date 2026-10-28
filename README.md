@@ -104,7 +104,7 @@ I design intuitive digital products with engineering precision — turning compl
 ## Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-firasezra--portfoliov2.vercel.app-0078D4?style=for-the-badge&logo=vercel)](https://firasezra-portfoliov2.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-firasezraep@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:firasezraep@gmail.com)
+[![Email](https://img.shields.io/badge/Email-firasezraep@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:firasezra.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Firas_Ezra-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/firasezra)
 [![GitHub](https://img.shields.io/badge/GitHub-firasezraa-181717?style=for-the-badge&logo=github)](https://github.com/firasezraa)
 
