@@ -9,9 +9,9 @@ South Jakarta, Indonesia • Remote / Hybrid • Open to Opportunities
 
 I design intuitive digital products with engineering precision — turning complex operational workflows into clean, high-impact digital experiences.
 
+- 🏢 **Founder** — [www.digiloot.id](https://www.digiloot.id)
 - 🎓 **Master of Information Systems Management** — Binus University (current)
 - 💼 **Former UI/UX Designer** — Kadence International (Global Market Research Agency)
-- 🏢 **Founder** — [www.digiloot.id](https://www.digiloot.id)
 - 🏆 **84.5 SUS Score (Grade A)** — Elevated from 58 (Grade F) across 24 core analyst workflows
 - ⚡ **38% faster** client report compilation through consolidated 3-pillar information architecture
 - 🎯 **89.2% task completion rate** — On-demand campus delivery ecosystem (SAMPERIN)
@@ -94,7 +94,7 @@ I design intuitive digital products with engineering precision — turning compl
 ## Currently
 
 - 📚 Completing Master's in Information Systems Management at Binus University
-- 🔧 Building portfolio v2 with Next.js 15, Tailwind v4, shadcn/ui
+- 🔧 Building AI Automation Company with Hermes Agent, Hermes3D, and N8N
 - 🎨 Exploring design system tokenization & developer handoff workflows
 - 🏢 **Founder** — [www.digiloot.id](https://www.digiloot.id)
 - 💡 Open to Full-Time UI/UX Design, Product Design, and Design Systems consulting
