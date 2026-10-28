@@ -32,16 +32,37 @@ I design intuitive digital products with engineering precision — turning compl
 ## Design & Engineering Capabilities
 
 ### UX Research & Product Strategy
-`User Interviews` `Usability Testing (Maze)` `Information Architecture` `Heuristic Evaluation` `Customer Journey Mapping` `SUS Benchmarking`
+![User Interviews](https://img.shields.io/badge/User%20Interviews-000?style=for-the-badge&logo=figma&logoColor=white)
+![Usability Testing](https://img.shields.io/badge/Usability%20Testing-Maze-000?style=for-the-badge&logo=maze&logoColor=white)
+![Information Architecture](https://img.shields.io/badge/Information%20Architecture-000?style=for-the-badge&logo=sitemap&logoColor=white)
+![Heuristic Evaluation](https://img.shields.io/badge/Heuristic%20Evaluation-000?style=for-the-badge&logo=checklist&logoColor=white)
+![Customer Journey Mapping](https://img.shields.io/badge/Customer%20Journey%20Mapping-000?style=for-the-badge&logo=map&logoColor=white)
+![SUS Benchmarking](https://img.shields.io/badge/SUS%20Benchmarking-000?style=for-the-badge&logo=chart-line&logoColor=white)
 
 ### UI Design Systems
-`Figma Auto-layout` `Design Tokens` `Component Specs` `Micro-interactions` `Design QA` `Atomic Components`
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma Tokens](https://img.shields.io/badge/Design%20Tokens-000?style=for-the-badge&logo=figma&logoColor=white)
+![Component Specs](https://img.shields.io/badge/Component%20Specs-000?style=for-the-badge&logo=storybook&logoColor=white)
+![Micro-interactions](https://img.shields.io/badge/Micro--interactions-000?style=for-the-badge&logo=framer&logoColor=white)
+![Design QA](https://img.shields.io/badge/Design%20QA-000?style=for-the-badge&logo=quality-assurance&logoColor=white)
+![Atomic Components](https://img.shields.io/badge/Atomic%20Components-000?style=for-the-badge&logo=atom&logoColor=white)
 
 ### Front-End Engineering Feasibility
-`Next.js 15 (App Router)` `React 19` `TypeScript` `Tailwind CSS v4` `shadcn/ui` `Supabase (PostgreSQL)` `Git & GitHub`
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Information Systems & Management
-`Enterprise Architecture` `Business Process Analysis` `Agile / Scrum` `Product Analytics` `Decision Support Systems`
+![Enterprise Architecture](https://img.shields.io/badge/Enterprise%20Architecture-000?style=for-the-badge&logo=archlinux&logoColor=white)
+![Business Process Analysis](https://img.shields.io/badge/Business%20Process%20Analysis-000?style=for-the-badge&logo=process&logoColor=white)
+![Agile / Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-000?style=for-the-badge&logo=jira&logoColor=white)
+![Product Analytics](https://img.shields.io/badge/Product%20Analytics-000?style=for-the-badge&logo=amplitude&logoColor=white)
+![Decision Support Systems](https://img.shields.io/badge/Decision%20Support%20Systems-000?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 
